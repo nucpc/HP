@@ -24,3 +24,8 @@
 
 # Slice G2 Audio Ready Platform - Video Ingest Module
 <img width="800" alt="P2" src="VIngest.png">
+
+
+
+# Slice G2 Audio Ready Platform - USB TYPE C Cable
+<img width="800" alt="P2" src="HPUSBTYPEC.png">
