@@ -23,7 +23,7 @@
 <img width="800" alt="P2" src="PortCover.png">
 
 # Slice G2 Audio Ready Platform - Video Ingest Module
-<img width="800" alt="P2" src="VIngest.png">
+<img width="800" alt="P2" src="HPVideoIngestModule.png">
 
 
 
